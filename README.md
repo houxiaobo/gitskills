@@ -2,4 +2,4 @@ gitskills
 =========
 hello world
 =============
-hello houxiaobo
+Creating a new branch is simple and quick
